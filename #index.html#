@@ -1,0 +1,90 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div id='cv'>
+    <p>
+      <strong>Bobby Wang</strong> is a software developer. In production he mainly worked with
+      <a target="_blank" href="http://www.rubyonrails.com">Ruby</a>,
+      some
+      <a target="_blank" href="http://www.clojure.org">Clojure</a>,
+      and a bit of
+      <a target="_blank" href="https://angularjs.org/">JavaScript</a>.
+      <!--
+      <a target="_blank" href="https://facebook.github.io/react/">React</a>/<a target="_blank" href="http://redux.js.org/">Redux</a>/<a target="_blank" href="https://facebook.github.io/relay/">Relay</a>.
+      -->
+    </p>
+    <p>
+      He also has an interest in functional programming. In his spare time he is learning
+      <a target="_blank" href="https://www.haskell.org/">Haskell</a>.
+      <!--
+      and has
+      dipped his toes in Haskell-inspired languages like
+      <a target="_blank" href="http://elm-lang.org">Elm</a>
+      and
+      <a target="_blank" href="http://purescript.org">PureScript</a>.
+      -->
+      He started the
+      <a target="_blank" href="http://www.meetup.com/Clojure-Toronto/">Clojure Toronto meetup group</a>,
+      and co-organized weekly workshops.
+    </p>
+
+    <h2>Places where he worked:</h2>
+    <ul id='experience'>
+      <li>
+        <h3>
+          <a target="_blank" href="https://appcanary.com/">Appcanary</a>
+          - 2015 (employee)
+        </h3>
+        Web app for tracking vulnerable software packages on
+        servers (Rubygems & Ubuntu debs). Joined as an early employee after
+        company got into Y Combinator. Main responsibilities were core
+        services in Clojure/Datomic, and Ruby on Rails for the web UI.
+      </li>
+      <li>
+        <h3>
+          <a target="_blank" href="https://appcanary.com/">Bell Canada</a>
+          - 2015 (contractor)
+        </h3>
+        Worked on internal project management app that tracks compatibility
+        testing of mobile devices. Runs on Rails and MySQL.
+      </li>
+      <li>
+        <h3>
+          <a target="_blank" href="https://thinkresearch.com">Think Research</a>
+          - 2011 to 2014 (employee)
+        </h3>
+        Makes software for managing hospital patients. Worked with team to
+        migrate several core products from Java to Rails. Also worked on
+        analytics in MongoDB, and frontend for new products UIs in
+        Angular/Bootstrap.
+      </li>
+      <li>
+        <h3>
+          33needs - 2011 (contractor)
+        </h3>
+        Crowdfunding site for social causes. Took over maintenance and added new
+        features. Rails and MySQL.
+      </li>
+      <li>
+        <h3>
+          
+      </li>
+      <li>
+        <h3>Aleomsoft - 2008 to 2009 (contractor)</h3>
+        Software consulting firm. Worked on various web apps in PHP/Symfony,
+        music and video apps in Adobe
+        Flex, and backend video-encoding system in Ruby.
+      </li>
+    </ul>
+
+    <p>
+      Bobby is available for hire. If you have a project, you can shoot him an email:
+      <a href="mailto:wangbobby@gmail.com">wangbobby@gmail.com</a>
+    </p>
+  </div>
+
+
+</div>
